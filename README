@@ -1,0 +1,23 @@
+Quesion A
+
+  encoded identifiers:
+  for double average fucntion, the identifier is averagePdRd.
+  for int average function, the identifier is averageif.
+
+
+
+Qusion B
+
+ Output:
+1 4
+4 4
+4 4
+8 4
+
+ why?
+
+ 1, char data type occupies 1 byte.  4, pointer of char occupies 4 bytes.
+ 4, int data type  occupies 4 bytes.  4, pointer of int occupies 4 bytes.
+ 4, float data type occupies 4 bytes. 4, pointer of float occupies 4 bytes.
+ 8, double data type occupies 8 bytes. 4,pointer of double occupies 4 bytes.
+
